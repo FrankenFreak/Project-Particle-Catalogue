@@ -1,4 +1,4 @@
-Assignment by the University of Manchester
+Project by the University of Manchester
 
 All codes are written by Clive Marvelous
 
